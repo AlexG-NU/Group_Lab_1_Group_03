@@ -7,6 +7,8 @@
  *
  * @author janet
  */
+
+package Greetings;
 public class Member4 {
     
      public static void main(String[] args) {
