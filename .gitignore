@@ -1,0 +1,8 @@
+/nbproject/private/
+
+# NetBeans IDE artifacts
+nbproject/
+build.xml
+manifest.mf
+build/
+dist/
