@@ -11,8 +11,9 @@ package Greetings;
  */
 public class Main {
     public static void main(String[] args){
-        Member1 m1 = new Member1();
-        
-        m1.greeting();
+        Member1.main(args);
+        //Member2.main(args);
+        //Member3.main(args);
+        //Member4.main(args);
     }
 }

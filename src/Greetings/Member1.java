@@ -10,7 +10,7 @@ package Greetings;
  * @author Alex
  */
 public class Member1 {
-    public void greeting(){
-        System.out.println("Hello World! -Alex");
+    public static void main(String[] args){
+        System.out.println("Hello from Member 1!");
     }
 }
