@@ -8,7 +8,7 @@
  * @author Alex
  */
 public class Member1 {
-    public static void main(){
+    public void greeting(){
         System.out.println("Hello World!");
     }
 }
